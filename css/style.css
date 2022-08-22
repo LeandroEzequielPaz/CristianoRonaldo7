@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+}
+
+body{ background-color: black;
+}
+
+h1{color: aliceblue;
+text-align: center;
+}
+
+h2{color: aliceblue;}
+
+p{color: aliceblue;
+font-size:large
+}
+
+footer{color: aliceblue;
+}
+
+.carrera{
+    text-align: center;
+}
+
+.quienEs{
+    text-align: center;
+}
+
+.infancia{
+    text-align: center;
+}
+
+.selecciona{
+    text-align: center;
+}
+
+.portugal{color: red;
+}
+
+.sporting{color: green;
+}
+
+.manchester{color: red;
+    padding: 50px;
+}
+
+.realmadrid{color: gold;
+}
+
+.juventus{color: slategrey;
+}
+
+.manchester2{color: red;
+    padding: 50px;
+}
+
+
+.menu{ 
+    list-style: none;
+    background-color: darkgray;
+    
+}
+.menu__item{
+display: inline-block;
+margin-right: 10px;
+}
+.menu__item a{
+    color: black;
+    text-decoration: none;
+
+}
+
+.menu__item.active{
+    text-decoration: underline;
+}
+.menu__item a:hover{
+    text-decoration: underline;
+}
+
+.imagen__cr7{
+    display: inline-block;
+    margin-inline: 10px;
+}
+
+.redes__sociales{
+    color: darkgray;
+}
+.footer{
+    width: 100%;
+    padding: 80px 10px;
+    background-image: url(../imagenes/background-footer.svg);
+    background-size: cover;
+
+}
+
+.ronaldo7{
+    font-size: 100px;
+}
+
+.quienescr7{
+    padding: 50px;
+}
+
+.infancia2{
+    padding: 50px;
+}
+
+.infancia3{
+    padding: 50px;
+}
+
+.infancia4{
+    padding: 50px;
+}
+
+.sporting2 {
+    padding: 50px;
+}
+
+.ESCUDOS{
+    padding: 0px;
+}
+
+.juventus2{
+    padding: 50px;
+}
+
+.man2 {padding: 50px;}
+
+.manchester3 {
+    padding: 50px;
+}
+.portugal2{
+    padding: 50px;
+}
+
+.realmadrid2{
+    padding: 50px;
+    text-align: center;
+}
+ /* RESPONSIVE */
+
